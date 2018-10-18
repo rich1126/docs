@@ -22,10 +22,18 @@ section: articles
 
 #### Using the keyboard
 
-1. You can open the  Activities Overview by pressing the <kbd><span class="fl-pop-key"></span></kbd> or <kbd><span class="fl-ubuntu"></span></kbd>.
+1. First open the  Activities Overview by pressing the <kbd><span class="fl-pop-key"></span></kbd> or <kbd><span class="fl-ubuntu"></span></kbd>.
 2. Start typing the name of the application you want to launch. Searching for the application begins instantly.
 3. When you see the icon of the application and it is selected, press the <kbd>Enter</kbd> key to launch it.
 
 ### Moving Windows Around
 
-You can maximize windows by grabbing the windows's titlebar and drag it to the top of your screen. When you see the screen highlighted you can release the window. You can unmaximize the window by grabbing the titlebar again and dragging it away from the screen edge.
+Windows can be maximized by grabbing the windows's titlebar and drag it to the top of your screen. When the screen highlighted the window can be released. Windows can be unmaximized the window by grabbing the titlebar again and dragging it away from the screen edge.
+
+Windows can be tiled using the keyboard and these shortcuts:
+
+<kbd>Ctrl</kbd> + <kbd><span class="fl-pop-key"></span></kbd> + <kbd>→</kbd>/<kbd>←</kbd>
+
+This key combo will move the selected window to the right or left depending on if the right or left arrow key were pressed.
+
+### Switching workspaces
