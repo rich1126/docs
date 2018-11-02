@@ -20,7 +20,7 @@ section: faq
 Pop!_OS is remarkably flexible. You can run a full version of Pop!_OS from a USB drive (often known as a thumb drive, flash drive, or USB stick) in what's known as a *live environment*. Using a live environment (live disk) is useful for:
 
 - [Installing Pop!_OS](/articles/install-pop/)
-- Recovering your exiting operating system
+- Recovering your existing operating system
 - Backing up files when you can't boot
 - [Determining if an issue is caused by hardware or software](/articles/hardware-failure/)
 - [Fixing the boot loader](/articles/grub/)
